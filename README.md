@@ -1,3 +1,3 @@
-# tts_forecasting
+# Textual Time Series Forecasting
 
-Placeholder for TTS Forecasting
+[Pre-print](https://arxiv.org/abs/2504.10340)
